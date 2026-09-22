@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AstuteLynch/AstuteLynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lynch, a college student with experience in different fields of Computer Science.
+I design and build what ever comes into my mind.
+Curiosity is the greatest gift i have, which helps me get intrigued by whatever projects comes at me.
 
-Here are some ideas to get you started:
+## My main languages are: Java, Python, C#, C++
+Web Development Tech & Tools: Html, Css, Tailwind, Php
+Database Tech & Tools: MySql, PhpAdmin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on a student profiler for CVSU
+🌱 I’m currently learning machine
+📫 How to reach me: (--)
+
+## Fun facts:
+* I love Mango Graham
+* I have 3 dogs
+* Mushoku Tensei is my number one favorite anime
+* ## Hobbies: programming, astrology, gym, gaming
+
+
