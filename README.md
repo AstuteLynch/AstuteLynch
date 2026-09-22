@@ -12,11 +12,12 @@ Web Development Tech & Tools: HTML, CSS, Tailwind, PHP
 Database Tech & Tools: MySQL, phpMyAdmin.
 
 
-🔭 I’m currently working on a student profiler for CVSU
+🔭 I am currently working on a student profiler for CVSU as the project lead and main programmer..
 
-🌱 I’m currently learning machine
+🌱 I am currently learning Machine Learning (ML).
 
-📫 How to reach me: (--)
+🏢 Currently on a collaboration, with my student profiler as a front page of the web system.
+
 
 ## Fun facts:
 * I love Mango Graham
