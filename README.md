@@ -10,7 +10,9 @@ Database Tech & Tools: MySQL, phpMyAdmin.
 
 
 🔭 I’m currently working on a student profiler for CVSU
+
 🌱 I’m currently learning machine
+
 📫 How to reach me: (--)
 
 ## Fun facts:
