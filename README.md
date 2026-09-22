@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm Lynch, a college student with experience in different fields of Computer Science.
+
 I design and build whatever comes to my mind.
+
 Curiosity is the greatest gift I have, which helps me get intrigued by whatever projects come my way.
 
 ## My main languages are: Java, Python, C#, C++
