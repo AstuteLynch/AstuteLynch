@@ -8,6 +8,7 @@ Curiosity is the greatest gift I have, which helps me get intrigued by whatever 
 
 ## My main languages are: Java, Python, C#, C++
 Web Development Tech & Tools: HTML, CSS, Tailwind, PHP
+
 Database Tech & Tools: MySQL, phpMyAdmin.
 
 
